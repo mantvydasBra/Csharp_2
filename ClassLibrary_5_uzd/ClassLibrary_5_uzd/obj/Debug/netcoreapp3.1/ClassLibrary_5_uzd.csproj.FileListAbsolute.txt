@@ -1,0 +1,9 @@
+C:\Users\manta\source\repos\ClassLibrary_5_uzd\ClassLibrary_5_uzd\obj\Debug\netcoreapp3.1\ClassLibrary_5_uzd.csprojAssemblyReference.cache
+C:\Users\manta\source\repos\ClassLibrary_5_uzd\ClassLibrary_5_uzd\obj\Debug\netcoreapp3.1\ClassLibrary_5_uzd.AssemblyInfoInputs.cache
+C:\Users\manta\source\repos\ClassLibrary_5_uzd\ClassLibrary_5_uzd\obj\Debug\netcoreapp3.1\ClassLibrary_5_uzd.AssemblyInfo.cs
+C:\Users\manta\source\repos\ClassLibrary_5_uzd\ClassLibrary_5_uzd\obj\Debug\netcoreapp3.1\ClassLibrary_5_uzd.csproj.CoreCompileInputs.cache
+C:\Users\manta\source\repos\ClassLibrary_5_uzd\ClassLibrary_5_uzd\bin\Debug\netcoreapp3.1\ClassLibrary_5_uzd.deps.json
+C:\Users\manta\source\repos\ClassLibrary_5_uzd\ClassLibrary_5_uzd\bin\Debug\netcoreapp3.1\ClassLibrary_5_uzd.dll
+C:\Users\manta\source\repos\ClassLibrary_5_uzd\ClassLibrary_5_uzd\bin\Debug\netcoreapp3.1\ClassLibrary_5_uzd.pdb
+C:\Users\manta\source\repos\ClassLibrary_5_uzd\ClassLibrary_5_uzd\obj\Debug\netcoreapp3.1\ClassLibrary_5_uzd.dll
+C:\Users\manta\source\repos\ClassLibrary_5_uzd\ClassLibrary_5_uzd\obj\Debug\netcoreapp3.1\ClassLibrary_5_uzd.pdb

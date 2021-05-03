@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Diagnostics.EventLog" Version="5.0.1" />
+    <PackageReference Include="System.Management" Version="5.0.0" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary_5_uzd">
+      <HintPath>..\..\ClassLibrary_5_uzd\ClassLibrary_5_uzd\obj\Debug\netcoreapp3.1\ClassLibrary_5_uzd.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
